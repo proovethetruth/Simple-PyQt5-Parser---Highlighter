@@ -1,0 +1,7 @@
+NOTHING
+2022-02-01 01:40:34,933 System __main__ 6/10/2022 Incorrect Input
+2022-06-01 ValueError: invalid literal SYSTEM for int() with base 10: 'vb,,v'
+2022-06-01 SOMETfinhd elas notmainSystem Incorrect Input
+NOTHING
+2021-06-10 SYSTEMValueError: invalid literal YOLO for int() with base 10: 'vb,,v'
+210gsd NOTHINGNOTHINGNOTHINGNOTHING SYTSTEM
